@@ -23,7 +23,7 @@ django.setup()
 from queries.models import UserQuery
 
 
-BOT_TOKEN = "8550983842:AAEx9I9mTdjFcDfAUwIH1_QbYEut7CTcqRg"
+BOT_TOKEN = " "
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
